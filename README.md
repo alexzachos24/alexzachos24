@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @alexzachos24
+- 👋 Hi, I’m Alexandros Zachos
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: alexzachos24@gmail.com
-- ⚡ Fun fact: I am starting Zone01 piscine on April fools' day!
+- ⚡ Fun fact: I started Zone01 piscine on April fools' day!
 
 <!---
 alexzachos24/alexzachos24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
